@@ -2,7 +2,7 @@
 
 
 
-**Cabot WEB-AI is an [extensible](https://docs.openwebui.com/features/plugin/),forked from Open WebUI, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline.** It supports various LLM runners like **Ollama** and **OpenAI-compatible APIs**, with **built-in inference engine** for RAG, making it a **powerful AI deployment solution**.
+**Cabot WEB-AI, forked from Open WebUI,  is an [extensible](https://docs.openwebui.com/features/plugin/) feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline.** It supports various LLM runners like **Ollama** and **OpenAI-compatible APIs**, with **built-in inference engine** for RAG, making it a **powerful AI deployment solution**.
 
 ![Cabot WEB-AI Demo](./demo.gif)
 
